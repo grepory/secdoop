@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="configuration.xsl"?>
+
+<!-- Put site-specific property overrides in this file. -->
+
+<configuration>
+    <property>
+        <name>hadoop.tmp.dir</name>
+        <value>/tmp/james-hadoop</value>
+    </property>
+    <property>
+        <name>fs.default.name</name>
+        <value>hdfs://hpxeon01:54310</value>
+    </property>
+</configuration>
