@@ -8,6 +8,4 @@ Directories
 Getting Started
 ---------------
 It would probably be best to take a look at ``secdoop/README`` to get 
-an idea of how things work. You can also consult the Wiki_.
-
-.. _Wiki: http://github.com/grepory/secdoop/wiki
+an idea of how things work. You can also consult the `Wiki<http://github.com/grepory/secdoop/wiki>`_.
