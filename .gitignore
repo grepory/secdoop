@@ -1,0 +1,8 @@
+# ignore all compiled objects
+*.pyc
+*.o
+*.a
+*.class
+
+# Ignore all build files for secdoop
+secdoop/build/*
